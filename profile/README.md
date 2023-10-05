@@ -12,7 +12,7 @@ correctness.
 
 I am very thankful for conversations with
 
-- [Philip Wood](https://people.math.harvard.edu/~pmwood/) about his experience creating [Math 161](https://people.math.harvard.edu/~pmwood/Teaching/2023sMath161/) at Harvard
+- [Philip Wood](https://people.math.harvard.edu/~pmwood/) about his experience creating [Math 161](https://people.math.harvard.edu/~pmwood/Teaching/2023sMath161/) at Harvard;
 - [Heather Macbeth](https://faculty.fordham.edu/hmacbeth1/) and her [Mechanics of Proof](https://hrmacbeth.github.io/math2001/) textbook.
 
 I also used [Mathematics in Lean](https://github.com/leanprover-community/mathematics_in_lean) as
